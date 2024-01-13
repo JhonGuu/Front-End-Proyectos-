@@ -7,7 +7,7 @@ function App() {
     <>
       <div className = "bg-orange-600 w-2/6 h-10">
         <h1 className="text-3xl font-bold underline">
-          Hello world!
+          Hello world! como estan ???
         </h1>
         
       </div>
